@@ -1,0 +1,18 @@
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.head {
+    background-color: #b0b0b0;
+    background-image: url('../img/header/backg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 501px;
+}
+
+.menu__btn {
+    border: none;
+    background-color: transparent;
+    outline: transparent;
+}
